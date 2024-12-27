@@ -1,4 +1,4 @@
-##📱Wish List App(위시 리스트 앱)
+## 📱Wish List App(위시 리스트 앱)
 
 ### 기본 설명
 
